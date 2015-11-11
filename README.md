@@ -10,6 +10,7 @@ Para la implementacion del diseño utilizamos [Bootstrap](http://getbootstrap.co
 ![](https://github.com/CrazyMind-Grx/WholesaleShop/blob/master/images/bootstrap.png)
 
 Para la implementacion y el funcionamiento de la vista utilizamos [AngularJS](https://angularjs.org)
+
 ![](https://github.com/CrazyMind-Grx/WholesaleShop/blob/master/images/angularjs.png)
 
 
